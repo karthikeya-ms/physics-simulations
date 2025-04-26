@@ -1,3 +1,5 @@
+#ID wave equation
+
 import pygame
 import numpy as np
 

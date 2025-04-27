@@ -3,7 +3,7 @@ This repository contains some fun physics simulations that I play around with wh
 
 <figure>
   <img src="heat-eqn/cooked.gif" alt="Heat Simulation" width="500">
-  <figcaption align="center"><b>Figure 1:</b> Heat Diffusion in a Turkey Shape</figcaption>
+  <figcaption align="center"><b>Figure 1:</b> Cooking a Turkey </figcaption>
 </figure>
 
 
